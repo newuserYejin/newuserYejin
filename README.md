@@ -9,9 +9,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=dark)
 
-https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=dracula
+https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=dark
 
 |<span >스택 종류</sapn>|스택|
 |---|---|
