@@ -12,6 +12,8 @@
 
 ![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newuserYejin&layout=compact&theme=tokyonight)
+
 |<span >스택 종류</sapn>|스택|
 |---|---|
 |HTML/CSS|JavaScript|
