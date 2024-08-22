@@ -3,6 +3,8 @@
 * 기술 스택
 ---
 
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+
 |<span >스택 종류</sapn>|스택|
 |---|---|
 |HTML/CSS|JavaScript|
