@@ -9,8 +9,11 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=dark)
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=newusweYejin)](https://github.com/newusweYejin/github-readme-stats)
+
+
+![newusweUejin's GitHub stats](http://github-readme-states)
 
 https://github-readme-stats.vercel.app/api?username=newuserYsejin&show_icons=true&theme=dracula
 
