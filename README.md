@@ -1,6 +1,6 @@
-## 개발자 정예진의 기록 📖
+# 개발자 정예진의 기록 📖
 
-* 기술 스택
+## 기술 스택
 ---
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
