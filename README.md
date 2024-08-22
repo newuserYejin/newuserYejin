@@ -11,11 +11,7 @@
 </p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=dark)
 
-
-
-![newusweUejin's GitHub stats](http://github-readme-states)
-
-https://github-readme-stats.vercel.app/api?username=newuserYsejin&show_icons=true&theme=dracula
+https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=dracula
 
 |<span >스택 종류</sapn>|스택|
 |---|---|
