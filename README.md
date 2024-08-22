@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient &height=300&section=header&text=hello!!👋👋&fontSize=90&theme=radical&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=hello!!👋👋&fontSize=90&theme=radical&animation=twinkling)
 
 # 개발자 정예진의 기록 📖
 
