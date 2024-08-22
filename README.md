@@ -10,6 +10,8 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/사용자명/github-readme-stats)
+
 |<span >스택 종류</sapn>|스택|
 |---|---|
 |HTML/CSS|JavaScript|
