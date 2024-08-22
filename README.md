@@ -12,6 +12,8 @@
 
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=newusweYejin)](https://github.com/newusweYejin/github-readme-stats)
 
+https://github-readme-stats.vercel.app/api?username=newuserYsejin&show_icons=true&theme=dracula
+
 |<span >스택 종류</sapn>|스택|
 |---|---|
 |HTML/CSS|JavaScript|
