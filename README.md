@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 </p>
 
-![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=tokyonight)
+![Yejin's github stats](https://github-readme-stats.vercel.app/api?username=newuserYejin&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newuserYejin&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newuserYejin&layout=compact&theme=buefy)
 
 |<span >스택 종류</sapn>|스택|
 |---|---|
