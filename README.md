@@ -2,10 +2,7 @@
 
 * 기술 스택
 ---
-|------|---|---|
-|HTML/CSS|JavaScript|
 
-|제목|내용|설명|
 |---|---|---|
 |HTML/CSS|JavaScript|React|
 |테스트1|*강조1*|테스트3|
