@@ -8,4 +8,4 @@
 |HTML/CSS|JavaScript|
 |테스트1|*강조1*|
 |테스트1|**강조2**|
-|테스트1|<span style="background-color:red">강조3</span>|
+|테스트1|<span style="backgroundColor:red">강조3</span>|
