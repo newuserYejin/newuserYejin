@@ -14,9 +14,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=newuserYejin&layout=compact&theme=catppuccin_latte)
 
-|<span >스택 종류</sapn>|스택|
-|---|---|
-|HTML/CSS|JavaScript|
-|테스트1|*강조1*|
-|테스트1|**강조2**|
-|테스트1|<span style="color:red">강조3</span>|
