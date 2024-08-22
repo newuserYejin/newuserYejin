@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=fff&height=300&section=header&text=hello!!👋👋&fontSize=90&animation=fadeIn )
-
-      "0": "7b4397",
-      "100": "dc2430"
+![header](https://capsule-render.vercel.app/api?type=waving&&color=0:7b4397,100:dc2430&fontColor=fff&height=300&section=header&text=hello!!👋👋&fontSize=90&animation=fadeIn )
 
 # 개발자 정예진의 기록 📖
 
